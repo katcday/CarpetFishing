@@ -1,0 +1,16 @@
+TITLE: Carpetfishing
+AUTHOR: K. Camille Day
+DATE DUE: 2/8/22
+DATE SUBMITTED: 2/8/22
+COURSE TITLE: CSC202-H
+MEETING TIME(S): TTh 10:30-12:00
+DESCRIPTION: A man sitting at his desk decides to pretend the carpet is his ocean, with the ultimate goal of catching the elusive Mr. Marlin.
+HONOR CODE: On my honor I have neither given nor recieved any unauthorized aid on this assignment. CDay
+HOWTO: Run with processing. All files including (collision, enscreen, fish, game, input, carpetfishinf, and mainscreen ) must be present
+I have included all files and images in a zip that will need to be unzipped before it can be run with processing. All images in data file are necessary.
+INPUT FILE:  N/A
+OUTPUT FILE: N/A
+BIBLIOGRAPHY: Processing documentation
+RESOURCES: N/A
+TUTORS: N/A
+COMMENTS: There are no known bugs at this time. The game does include a cheat code where you click m during game to get the win condition.
