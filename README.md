@@ -32,6 +32,8 @@ Once you hit the end screen, you can press enter to play again.
 ## Stages of Developpment
 Since I wasn't used to coding with Processing or making games, I decided to start with a simple version of the games. It was basically the same, but with circles instead of fish. I worked on programming the collisions and getting the feel for the game down.
 
+![Alt text](https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/Screenshot%20(10).png)
+
 After getting the demo working, I added the graphics and the cutscenes at the end and beginning of the game. I quickly realized that the collisions for circles didn't feel right when I used the fish images. I quickly switched to hitboxes instead.
 
 Another issue I had was that the hitboxes were bounded at the edges of the fish image. This meant that if you were even close to the fish without hitting it, you could still get "eaten". I went for a smaller hitbox that was closer to the fishes mouth. That way you always feel like you deserve your loss.
