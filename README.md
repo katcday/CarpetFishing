@@ -2,7 +2,9 @@
  A game made in processing. You are a bored office worker, who sees something in his carpet. You are quickly captured by your dreams of catching the elusive Mr. Marlin.
 
 
-![Alt text](https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/Screenshot%20(8).png)
+<p align="center">
+  <img src="https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/Screenshot%20(8).png">
+</p>
 
 ## Instructions
 To play the game you need Processing downloaded on your computer and to run the files as a sketch. In the CarpetFishing folder you will find carpetfishing and collisiondemo. They are two different sketches. Carpetfishing is the game, and collisiondemo is the demo version of the game with no fun fish graphics.
@@ -13,19 +15,27 @@ We were given a Dilbert comic and a couple of days to game jam a fishing based g
 ## Gameplay
 The game starts with your fish on a wire. You're trying to eat the fish coming from the left while avoiding the fish on the left, as they will eat you.
 
-![Alt text](https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/Screenshot%20(9).png)
+<p align="center">
+  <img src="https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/Screenshot%20(9).png">
+</p>
 
 As you eat more fish you will grow, and so will the fish around you. With every 10 fish you eat, all fish on screen will grow as well as speed up.
 
-![Alt text](https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/busy.png)
+<p align="center">
+  <img src="https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/busy.png">
+</p>
 
 Once you hit 700 points, Mr. Marlin will swim out. Once you let him eat you, your fisherman has caught the big guy and you win
 
-![Alt text](https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/mr%20marlin%20enters.png)
+<p align="center">
+  <img src="https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/mr%20marlin%20enters.png">
+</p>
 
 Nice.
 
-![Alt text](https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/success.png)
+<p align="center">
+  <img src="https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/success.png">
+</p>
 
 ## Extras
 If you somehow aren't good enough at the game, yet are dying to see Mr. Marlin, you can press m on your keyboard to summon him.
@@ -35,7 +45,9 @@ Once you hit the end screen, you can press enter to play again.
 ## Stages of Developpment
 Since I wasn't used to coding with Processing or making games, I decided to start with a simple version of the games. It was basically the same, but with circles instead of fish. I worked on programming the collisions and getting the feel for the game down.
 
-![Alt text](https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/Screenshot%20(10).png)
+<p align="center">
+  <img src="https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/Screenshot%20(10).png">
+</p>
 
 After getting the demo working, I added the graphics and the cutscenes at the end and beginning of the game. I quickly realized that the collisions for circles didn't feel right when I used the fish images. I quickly switched to hitboxes instead.
 
