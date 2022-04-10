@@ -4,6 +4,9 @@
 
 ![Alt text](https://github.com/katcday/Carpetfishing/blob/main/Screenshots/Carpetfishing%20Captures/Screenshot%20(8).png)
 
+## Instructions
+To play the game you need Processing downloaded on your computer and to run the files as a sketch. In the CarpetFishing folder you will find carpetfishing and collisiondemo. They are two different sketches. Carpetfishing is the game, and collisiondemo is the demo version of the game with no fun fish graphics.
+
 ## Why Carpetfishing?
 We were given a Dilbert comic and a couple of days to game jam a fishing based game. I stuck to the theme of the comic and drew an office worker bored at work. I then thought back to my favorite arcade game. You would roll a ball and try to eat as many fish as you could without getting eaten by any fish that were bigger than you. I decided that I wanted to make something similar.
 
